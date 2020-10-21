@@ -8,8 +8,8 @@
 
 ## Screenshots
 
-| :----: | :----: |
 | <img src="screenshots/landingScreen.jpeg" height="250"> | <img src="screenshots/loginScreen.jpeg" height="250"> |
+| :----: | :----: |
 | Landing Screen | Login Screen |
 | <img src="screenshots/signinScreen.jpeg" height="250"> | <img src="screenshots/homeScreenLightMode.jpeg" height="250"> |
 | Signin Screen | Home Screen Light Mode |
