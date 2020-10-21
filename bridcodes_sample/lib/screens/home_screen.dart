@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    _name = _user.displayName;
+    _name = _user.displayName ?? '';
   }
 
   @override
